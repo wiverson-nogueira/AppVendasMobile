@@ -1,5 +1,5 @@
 # AppVendasMobile
-Projeto desenvolvido utilizando Python
+Projeto desenvolvido utilizando Python <br>
 Biblioteca: Kivy
 
 ## Objetivo
