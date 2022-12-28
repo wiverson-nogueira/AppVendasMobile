@@ -22,4 +22,4 @@ Além disto é bom ter um editor/IDE para trabalhar com o código como [Pycharm]
 
 ### Autor
 Feito por [Wiverson Lima](mailto:wiverson.nogueira@gmail.com) <br>
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wiverson-lima/)](https://www.linkedin.com/in/wiverson-lima
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wiverson-lima/)](https://www.linkedin.com/in/wiverson-lima)
